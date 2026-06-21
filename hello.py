@@ -11,3 +11,6 @@ def greet(name):
     return f'你好 {name}，今天想学点什么？'
 
 print(greet('小明'))
+
+# 第二次提交：GitHub 远程推送测试
+print('第一次推送到 GitHub，纪念一下！')
